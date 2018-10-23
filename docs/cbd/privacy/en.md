@@ -8,31 +8,31 @@ Pregnancy Calculator (Childbirth Date) intended to calculate due date via differ
 
 1. General Provisions
 
-    1. The term “personal information” as used herein is defined as any information that identifies or may be used to identify, contact,
+    1. The term “personal information” as used herein is defined as any information that identifies or may be used to identify, contact,
  or search for the person to whom such information relates. Personal information will be subject to this privacy policy, amended from time to time.
 
-    2. We do not collect any personal information.
+    1. We do not collect any personal information.
 
-    3. We do not sell content.
+    1. We do not sell content.
 
-    4. We do not require registration.
+    1. We do not require registration.
 
-    5. The security of your personal information will not be compromised.
+    1. The security of your personal information will not be compromised.
 
-    6. We do not request location information through our mobile app.
+    1. We do not request location information through our mobile app.
 
-    7. We do not send email newsletters.
+    1. We do not send email newsletters.
 
 2. Required Permissions
 
-    1. INTERNET -- permission for the app to access the Internet: used to display ads.
+    1. INTERNET -- permission for the app to access the Internet: used to display ads.
 
-    2. ACCESS_NETWORK_STATE -- permission to access information about device connection to the Internet:
+    1. ACCESS_NETWORK_STATE -- permission to access information about device connection to the Internet:
  used when downloading data necessary for displaying ads.
 
-    3. RECEIVE_BOOT_COMPLETED -- permission for the app to receive a device power-on event: used to update the widget.
+    1. RECEIVE_BOOT_COMPLETED -- permission for the app to receive a device power-on event: used to update the widget.
 
-    4. WAKE_LOCK -- permission required to work with the operating system alarm clock: used to update the widget.
+    1. WAKE_LOCK -- permission required to work with the operating system alarm clock: used to update the widget.
 
 3. The materials contained in the app are for informational purposes only and are intended for educational purposes.
  Before using any medication and treatment methods, as well as for making a diagnosis, you should consult with your doctor.
