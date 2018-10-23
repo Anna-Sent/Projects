@@ -23,7 +23,7 @@ Pregnancy Calculator (Childbirth Date) intended to calculate due date via differ
 
     1. We do not send email newsletters.
 
-2. Required Permissions
+1. Required Permissions
 
     1. INTERNET -- permission for the app to access the Internet: used to display ads.
 
@@ -34,8 +34,8 @@ Pregnancy Calculator (Childbirth Date) intended to calculate due date via differ
 
     1. WAKE_LOCK -- permission required to work with the operating system alarm clock: used to update the widget.
 
-3. The materials contained in the app are for informational purposes only and are intended for educational purposes.
+1. The materials contained in the app are for informational purposes only and are intended for educational purposes.
  Before using any medication and treatment methods, as well as for making a diagnosis, you should consult with your doctor.
  The developer of the app is not responsible for possible negative consequences arising from the use of information posted in the app.
 
-4. The app shows ads via Google Mobile Ads SDK.
+1. The app shows ads via Google Mobile Ads SDK.
